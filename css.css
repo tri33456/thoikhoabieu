@@ -1,0 +1,32 @@
+html {
+    background-color: #B2C0D8;
+    font-size: 15px;
+}
+div {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h1 {
+    text-align: center;
+    background-color: #ffffff;
+    color: rgb(0, 17, 255);
+}
+table {
+    width: 80%;
+    margin-left: 10%;
+}
+table, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+th {
+    background-color: #ffffff;
+    width: 10px;
+    height: 10px;
+    color: #ffffff;
+    padding: 5px;   
+}
+.thu, .tiet {
+    background-color: #3825a3;
+}
+
